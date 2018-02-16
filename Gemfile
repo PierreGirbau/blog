@@ -7,6 +7,8 @@ end
 
 # Cloudinary gem
 gem 'figaro'
+gem 'cloudinary'
+gem 'carrierwave', '~> 1.2'
 
 # Front-end gems
 gem 'bootstrap-sass'
